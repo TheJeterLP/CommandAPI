@@ -1,0 +1,7 @@
+/target/
+/.idea
+/*.iml
+/.travis
+/_config.yml
+/ChatEx.iml
+/nb-configuration.xml
