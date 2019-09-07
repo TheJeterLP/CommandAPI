@@ -10,4 +10,4 @@ Has multiple functions such as:
 - no editing of plugin.yml required
 
 
-For an example project see https://github.com/TheJeterLP/CommandAPI/
+For an example project see https://github.com/TheJeterLP/Economy/
