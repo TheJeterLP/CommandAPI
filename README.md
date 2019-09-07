@@ -1,6 +1,6 @@
 CommandAPI
 ================================
-My own made CommandAPI for Bukkit Plugins, an example project will be added soon.
+My own made CommandAPI for Bukkit Plugins
 Has multiple functions such as:
 - multiple commands in one class
 - automated help menu
@@ -8,3 +8,6 @@ Has multiple functions such as:
 - automated arg flags
 - simple to use
 - no editing of plugin.yml required
+
+
+For an example project see
