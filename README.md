@@ -10,6 +10,6 @@ Has multiple functions such as:
 - no editing of plugin.yml required
 
 
-For an example project see https://github.com/TheJeterLP/Economy/
+For an example project see https://github.com/TheJeterLP/CommandAPIExample
 
 For including into your project use the Maven Shade plugin.
