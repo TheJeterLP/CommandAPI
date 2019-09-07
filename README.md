@@ -11,3 +11,5 @@ Has multiple functions such as:
 
 
 For an example project see https://github.com/TheJeterLP/Economy/
+
+For including into your project use the Maven Shade plugin.
